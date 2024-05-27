@@ -1,0 +1,6 @@
+Flask==2.3.3
+Flask-SQLAlchemy==2.5.1
+Pillow==9.4.0
+PyCUDA==2021.1
+psycopg2-binary==2.9.6
+numpy==1.24.2
