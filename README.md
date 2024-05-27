@@ -47,3 +47,11 @@ Permite a los usuarios seleccionar imágenes, aplicar filtros y ver el resultado
 - Base de Datos: PostgreSQL
 
 - Contenedorización: Docker
+
+### Estructura del proyecto
+![image](https://github.com/AnahiCb/App-Movil-Filtros/assets/65026851/55bb7824-1fd1-4b99-9977-c9d76f11edd6)
+
+![image](https://github.com/AnahiCb/App-Movil-Filtros/assets/65026851/b5280705-cc94-4a0a-907c-2dbbb8cf9fa8)
+
+![image](https://github.com/AnahiCb/App-Movil-Filtros/assets/65026851/d82b3bb9-bb8f-48d2-ad99-2128ddd753d4)
+
